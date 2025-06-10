@@ -1,0 +1,12 @@
+INFO:     127.0.0.1:62352 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62354 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62352 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:62353 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62353 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62360 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62361 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62360 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62365 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62365 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62366 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62368 - "POST /predict HTTP/1.1" 422 Unprocessable Entity
